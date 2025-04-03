@@ -26,8 +26,7 @@ This project is a **Sorting Algorithm Visualizer** built using **JavaScript**. I
 ## Installation
 Clone this repository and open it in a browser:
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
-cd sorting-visualizer
+git clone https://github.com/harshuCodes-git/Kennect-SDE-Task
 open index.html
 ```
 
