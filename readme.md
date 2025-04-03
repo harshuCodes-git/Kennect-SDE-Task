@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer Kennect Task Done By Harsh Dubey 
+# Kennect Task Done by Harsh Dubey 
 
 ## Overview
 This project is a **Sorting Algorithm Visualizer** built using **JavaScript**. It provides an interactive way to visualize different sorting algorithms with dynamic bars and their values displayed below.
@@ -55,6 +55,16 @@ sorting-visualizer/
 │-- assets/              # Any images or additional resources
 ```
 
+## Deployment
+The project is deployed on **Render**. You can access it using the following link:
+[Sorting Visualizer - Deployed on Render](https://harshucodes-git.github.io/Kennect-SDE-Task/)
+
+## Assumptions
+- The user interacts via a graphical interface.
+- Sorting algorithms execute in a stepwise manner for clear visualization.
+- The animation speed can be dynamically adjusted.
+- The project runs on modern web browsers.
+
 ## Future Enhancements
 - Add more sorting algorithms (Heap Sort, Radix Sort, etc.)
 - Implement color-coded comparisons and swaps
@@ -66,6 +76,10 @@ Feel free to fork this repository and submit pull requests. Any contributions to
 
 ## License
 This project is licensed under the MIT License.
+
+## Important Links
+- **GitHub Repository**: [Sorting Visualizer Repo](https://github.com/harshuCodes-git/Kennect-SDE-Task)
+- **Deployed Project**: [Sorting Visualizer - Render](https://harshucodes-git.github.io/Kennect-SDE-Task/)
 
 ---
 **Happy Coding! 🚀**
